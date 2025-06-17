@@ -5,9 +5,9 @@ CREATE TABLE Customers (
 );
 
 INSERT INTO Customers (customer_id, name, city) VALUES
-(1, 'Luca', 'Hyderabad'),
-(2, 'Mylo', 'Hyderabad'),
-(3, 'Leo', 'Hyderabad'),
+(1, 'Luca', 'Delhi'),
+(2, 'Mylo', 'Mumbai'),
+(3, 'Leo', 'Bangalore'),
 (4, 'Nova', 'Hyderabad');
 
 CREATE TABLE Orders (
