@@ -41,3 +41,7 @@ I documented everything clearly, from migration steps to challenges and learning
 - Improved confidence in working independently with SQL editors and GitHub.
 
 Overall, this task gave me a deep appreciation of how databases work beyond just storing data. I now feel more prepared to take on larger data-centric projects in the future and apply these skills in real-world scenarios. Task 3 truly enhanced my technical problem-solving abilities and helped bridge the gap between theory and practice.
+
+### Output
+
+https://github.com/user-attachments/assets/dd441072-ce09-4145-b4a7-40784bb2b4ef
