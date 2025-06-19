@@ -44,5 +44,6 @@ Overall, this task gave me a deep appreciation of how databases work beyond just
 
 ### Output
 
-https://github.com/user-attachments/assets/dd441072-ce09-4145-b4a7-40784bb2b4ef
+<img width="1230" alt="Screenshot 2025-06-17 at 11 00 29 PM" src="https://github.com/user-attachments/assets/f38b03ed-d6d3-4a3f-94a0-26cacdfd885c" />
+
 
