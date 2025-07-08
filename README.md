@@ -1,10 +1,15 @@
 # SQL_Database_Migration_Task_3
 
 COMPANY: CodTech IT Solutions  
+
 NAME: Ananya Verma
+
 INTERN ID: CT04DG180 
+
 DOMAIN: SQL   
+
 DURATION: 4 Weeks  
+
 MENTOR: Neela Santhosh Kumar
 
 ---
